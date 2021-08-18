@@ -5,7 +5,8 @@
 - `React-Bootstrap`, `React-Redux`, `Redux-Thunk`, `Redux-Logger`, `React-router-dom`, `prop-types`, `node-sass`
 
 ## Live Demo
-Here you can find a Live Demo of the project with its latest features [The Gallery Pic](https://the-gallery-pic.web.app/).
+Here you can find a Live Demo of the project with its latest features [PictureThis!](
+https://git.heroku.com/capstone2-picture-this.git/).
 
 ### Getting Started 
 
