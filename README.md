@@ -40,13 +40,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### Usage
 
 - Get the latest photographs from different artists since the beginning.
-![home](./screenshots/home.png)
+
 
 - Find what is relevant to you with in a simple way.
-![search](./screenshots/search.png)
+
 
 - Get all the info of your favorite photos with just a single click.
-![description](./screenshots/description.png)
+
 
 ### Run tests
 
